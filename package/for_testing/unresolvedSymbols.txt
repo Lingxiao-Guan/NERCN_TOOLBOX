@@ -1,0 +1,2 @@
+Path	Symbol	Reason
+Users\80647\Desktop\NELCN平台开发\APP_106RS_acq_V2_0503.mlapp	signalLabeler	undeployable
